@@ -7,4 +7,4 @@
 
 **Amount**: transaction amount
 
-**Class**: output. 1 for fraudulent, 0 for otherwise
+**Class**: output: 1 for fraudulent, 0 for otherwise
